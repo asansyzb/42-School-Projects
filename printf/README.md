@@ -3,12 +3,12 @@
 Because I’m tired of using putnbr and putstr.
 
 ### Contents
-* [What is ft_printf?](#what-is-ft_printf)
+* [What is ft_printf?](#what-is-ft-printf)
 * [Why would I use/try it?](#why-would-i-usetry-it)
 * [How do I use it?](#how-do-i-use-it)
 * [How do I test my own code?](#how-do-i-test-my-own-code)
 
-### What is printf?
+### What is ft_printf?
 
 [ft_printf][1] is an individual project at [42][2] that teaches you how to structure a big project by implementing standard C printf function, and follow **DRY** (Don't Repeat Yourself) approach of software development.
 
