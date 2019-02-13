@@ -31,7 +31,7 @@ I added a file called **test.c**, it takes a file name as an argument, opens it 
 
 **Note:** get_next_line returns -1, 0, 1 depending on wether an error has occurred, the reading has been completed or a line has been read respectively.
 
-Download/clone this repo
+Download/clone this repo.
 	
 Get into it and build the library:
 	
