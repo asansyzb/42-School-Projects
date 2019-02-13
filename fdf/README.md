@@ -2,7 +2,7 @@
 
 A simple 3D height-map renderer. You can rotate models, zoom in and out, increase or decrease landschaft, color is defined by relative height in the map.
 
-![alt text](https://github.com/Aliba777/42-School-Projects/blob/master/fdf/screenshot_fdf.png)
+![screenshot](https://github.com/Aliba777/42-School-Projects/blob/master/screenshots/screenshot_fdf.png)
 
 ### Contents
 * [What is fdf?](#what-is-fdf)
