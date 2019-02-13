@@ -62,7 +62,7 @@ The last command created a `fdf` executable in your directory. Now test it with:
 
 I added **test_maps** folder, to test the program on different amount of different tetriminos.
 
-	./fillit test_maps/pyramide.fdf
+	./fdf test_maps/pyramide.fdf
 
 Have fun :)
 
