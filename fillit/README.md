@@ -10,7 +10,7 @@ This is the story of a piece of Tetris, one little square and a dev walk into a 
 
 ### What is fillit?
 
-[fillit][1] is a group project that allows you to discover and / or familiarize yourself with a recurring problem in programming: the search for an optimal solution among a very large number of possibilities, within a reasonable time. In the case of this project, it will be a question of arranging Tetriminos between them and to determine the smallest possible square that can accommodate them. Thanks [@ValeriiaMur][18] to being a great partner!
+[fillit][1] is a group project that allows you to discover and / or familiarize yourself with a recurring problem in programming: the search for an optimal solution among a very large number of possibilities, within a reasonable time. In the case of this project, it will be a question of arranging Tetriminos between them and to determine the smallest possible square that can accommodate them. Thanks [@ValeriiaMur][18] for being a great partner!
 
 ### Why would I use/try it?
 
