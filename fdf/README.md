@@ -28,17 +28,17 @@ not...
 
 ### Features
   
- 	 Simple file format definition (array of space-separated integers)
+ 	Simple file format definition (array of space-separated integers)
   
- 	 3D rotations with the mouse
+ 	3D rotations with the mouse
   
- 	 Camera controls (zoom, translate)
+ 	Camera controls (zoom, translate)
   
- 	 Pretty color gradients!
+ 	Pretty color gradients!
   
   	Double-buffered
   
- 	 Line clipping
+ 	Line clipping
 
 ### How do I use it?
 
@@ -54,7 +54,7 @@ The last command created a `fdf` executable in your directory. Now test it with:
   
   	arrow keys - move the angle.
   
- 	 + or -  -  zoom in/out.
+ 	+ or -  -  zoom in/out.
   
   	< or > - increase/decrease landshcaft.
   
