@@ -91,5 +91,4 @@ Have fun :)
 [15]: https://en.wikipedia.org/wiki/Abai_Qunanbaiuly
 [16]: https://www.poemhunter.com/poem/black-of-my-eye/
 [17]: https://github.com/jgigault/42FileChecker
-[18]: https://github.com/jgigault
 [19]: https://github.com/R4meau/
