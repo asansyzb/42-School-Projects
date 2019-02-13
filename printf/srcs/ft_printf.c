@@ -6,7 +6,7 @@
 /*   By: asansyzb <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/05 01:14:26 by asansyzb          #+#    #+#             */
-/*   Updated: 2018/12/05 01:14:33 by asansyzb         ###   ########.fr       */
+/*   Updated: 2019/02/13 01:50:28 by asansyzb         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -121,10 +121,4 @@ int				ft_printf(const char *fmt, ...)
 		va_end(args);
 	}
 	return (res);
-}
-
-int main(void)
-{
-	ft_printf("%d%s%c%x\n",42, "str ", 'c', 255);
-	sleep(4);
 }

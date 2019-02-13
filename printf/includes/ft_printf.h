@@ -6,7 +6,7 @@
 /*   By: asansyzb <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/08 05:17:05 by asansyzb          #+#    #+#             */
-/*   Updated: 2018/12/08 05:17:06 by asansyzb         ###   ########.fr       */
+/*   Updated: 2019/02/13 01:50:57 by asansyzb         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -72,5 +72,5 @@ size_t			print_arg_int(va_list *args, t_flags *f);
 size_t			print_arg_uint(va_list *args, t_flags *f);
 size_t			ft_strwlen(wchar_t *s);
 char			*ft_strwdup(wchar_t *s);
-
+int				ft_printf(const char *fmt, ...);
 #endif
