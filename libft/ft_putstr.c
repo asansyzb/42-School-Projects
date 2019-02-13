@@ -14,8 +14,10 @@
 
 void	ft_putstr(char *str)
 {
+	int	len;
+
 	if (!str || !*str)
 		return ;
-	while (*str)
-		write(1, str++, 1);
+	len = ft_strlen(str);
+	write(1, str, len);
 }
