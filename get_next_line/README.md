@@ -10,7 +10,7 @@ A C function that reads any valid file line by line until the end from a file de
 
 ### What is get_next_line?
 
-[get_next_line][1] is an individual project at [42][2] that basically teaches you how to open/write data in a file, and memory control (does not contain memory leaks).
+[get_next_line][1] is an individual project at [42][2] that teaches you how to open/write data in a file, and how to manage memory (does not contain memory leaks).
 
 
 ### Why would I use/try it?
@@ -83,10 +83,6 @@ Have fun :)
 [1]: https://github.com/Aliba777/42-School-Projects/blob/master/get_next_line/get_next_line.en.pdf "get_next_line PDF"
 [2]: http://42.us.org "42 USA"
 [5]: https://github.com/yyang42/moulitest
-[10]: http://stackoverflow.com/questions/3501338/c-read-file-line-by-line
-[11]: http://stackoverflow.com/questions/2372813/reading-one-line-at-a-time-in-c
-[12]: http://stackoverflow.com/questions/9206091/going-through-a-text-file-line-by-line-in-c
-[13]: https://linux.die.net/man/3/getline
 [14]: https://github.com/Aliba777/42-School-Projects/tree/master/libft
 [15]: https://en.wikipedia.org/wiki/Abai_Qunanbaiuly
 [16]: https://www.poemhunter.com/poem/black-of-my-eye/
