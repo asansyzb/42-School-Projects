@@ -30,16 +30,12 @@ not...
   
  	Simple file format definition (array of space-separated integers)
   
- 	3D rotations with the mouse
+ 	3D rotations with the arrow keys
   
  	Camera controls (zoom, translate)
   
  	Pretty color gradients!
-  
-  	Double-buffered
-  
- 	Line clipping
-
+    
 ### How do I use it?
 
 Download/clone this repo.
