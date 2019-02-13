@@ -10,11 +10,11 @@ This is the story of a piece of Tetris, one little square and a dev walk into a 
 
 ### What is fillit?
 
-[fillit][1] is a group project that allows you to discover and / or familiarize yourself with a recurring problem in programming: the search for an optimal solution among a very large number of possibilities, within a reasonable time. In the case of this project, it will be a question of arranging Tetriminos between them and to determine the smallest possible square that can accommodate them.
+[fillit][1] is a group project that allows you to discover and / or familiarize yourself with a recurring problem in programming: the search for an optimal solution among a very large number of possibilities, within a reasonable time. In the case of this project, it will be a question of arranging Tetriminos between them and to determine the smallest possible square that can accommodate them. Thanks [@ValeriiaMur][18] to being a great partner!
 
 ### Why would I use/try it?
 
-The goal is to get better at C programming, and acquire understand the concept of backtracking algortihm.
+The goal is to understand the concept of recursive backtracking algortihm.
 
 You can use functions from your [personal library][14].
 
@@ -22,7 +22,7 @@ To speed up the program, I used bitwise operators.
 
 ### How do I use it?
 
-Download/clone this repo
+Download/clone this repo.
 
 Run `make` in the root folder, an executable called `fillit` should compile directly.
 
@@ -53,3 +53,4 @@ Have fun :)
 [5]: https://github.com/yyang42/moulitest
 [14]: https://github.com/Aliba777/42-School-Projects/tree/master/libft
 [17]: https://github.com/jgigault/42FileChecker
+[18]: https://github.com/ValeriiaMur
