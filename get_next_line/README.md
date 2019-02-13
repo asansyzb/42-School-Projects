@@ -80,6 +80,8 @@ Then press `5` to select tests for get_next_line, press `1` to install [moulites
 
 Have fun :)
 
+All of the instructions I used was copied/paraphrased from [other 42 student][https://github.com/R4meau/get_next_line]
+
 [1]: https://github.com/Aliba777/42-School-Projects/blob/master/get_next_line/get_next_line.en.pdf "get_next_line PDF"
 [2]: http://42.us.org "42 USA"
 [5]: https://github.com/yyang42/moulitest
@@ -92,3 +94,4 @@ Have fun :)
 [16]: https://www.poemhunter.com/poem/black-of-my-eye/
 [17]: https://github.com/jgigault/42FileChecker
 [18]: https://github.com/jgigault
+[19]: https://github.com/R4meau/
