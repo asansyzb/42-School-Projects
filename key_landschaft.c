@@ -1,21 +1,37 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_putstr.c                                        :+:      :+:    :+:   */
+/*   key_landschaft.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: asansyzb <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2018/10/23 15:40:51 by asansyzb          #+#    #+#             */
-/*   Updated: 2018/10/23 15:40:58 by asansyzb         ###   ########.fr       */
+/*   Created: 2018/11/28 22:27:37 by asansyzb          #+#    #+#             */
+/*   Updated: 2018/11/28 22:27:38 by asansyzb         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "fdf.h"
 
-void	ft_putstr(char *str)
+static void	increase_landschaft(t_wind *w)
 {
-	if (!str || !*str)
-		return ;
-	while (*str)
-		write(1, str++, 1);
+	mlx_clear_window(w->m_p, w->w_p);
+	w->coef++;
+	get_points(w);
+	draw(w);
+}
+
+static void	decrease_landschaft(t_wind *w)
+{
+	w->coef -= (w->coef > 1) ? 1 : 0;
+	mlx_clear_window(w->m_p, w->w_p);
+	get_points(w);
+	draw(w);
+}
+
+void		change_landschaft(int key, t_wind *w)
+{
+	if (key == 47)
+		increase_landschaft(w);
+	else
+		decrease_landschaft(w);
 }
