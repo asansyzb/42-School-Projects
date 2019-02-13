@@ -91,6 +91,8 @@ To test the code we're going to be using @alelievr's [Libft Unit Test][4]. There
 
 Have fun :)
 
+All of the instructions I used was copied/paraphrased from [other 42 student][19]
+
 [1]: https://github.com/Aliba777/42-School-Projects/blob/master/libft/libft.en.pdf "Libft PDF"
 [2]: http://42.us.org "42 USA"
 [3]: https://github.com/R4meau/libft/wiki/Personal-Functions-Documentation
@@ -98,3 +100,4 @@ Have fun :)
 [5]: https://github.com/yyang42/moulitest
 [6]: https://github.com/QuentinPerez/Maintest/tree/master/libft
 [7]: https://github.com/Kant1-0/libft-test
+[19]: https://github.com/R4meau/get_next_line
