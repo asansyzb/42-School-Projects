@@ -100,4 +100,4 @@ All of the instructions I used was copied/paraphrased from [other 42 student][19
 [5]: https://github.com/yyang42/moulitest
 [6]: https://github.com/QuentinPerez/Maintest/tree/master/libft
 [7]: https://github.com/Kant1-0/libft-test
-[19]: https://github.com/R4meau/get_next_line
+[19]: https://github.com/R4meau/
