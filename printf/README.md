@@ -22,7 +22,7 @@ You can use only functions from your [personal library][14].
 
 I added a file called **main.c**, which simply prints out "Hello world" on the terminal.
 
-Download/clone this repo
+Download/clone this repo.
 	
 Get into it and build the library:
 	
