@@ -64,7 +64,6 @@ The goal is to create a library called libft.a from the source files so I can la
 To create that library, after downloading/cloning this project, **cd** into the project, copy all the files from the sub folders to the root directory and finally, call make:
 
 	cd libft
-	make copy
 	make
 
 You should see a *libft.a* file and some object files (.o).
@@ -72,7 +71,7 @@ You should see a *libft.a* file and some object files (.o).
 
 To clean up:
 1. call `make clean` (removing the .o files from the root).
-2. call 'make fclean' (removing the .o and .a files from the root).
+2. call `make fclean` (removing the .o and .a files from the root).
 
 ### How do I use the library?
 
