@@ -60,7 +60,7 @@ It should read the whole file to you. Kinda like a basic `cat` implementation.
 
 #### How do I test my own code?
 
-You can do as [above](#how-do-i-use-it) and use the main file I added, just make sure you use your own `get_next_line.c` file. This is a pretty rudimentary test, if you want to try some deep tests, let me introduce you to the amazing [42FileChecker][17] by [@jgigault][18].
+You can do as [above](#how-do-i-use-it) and use the `test.c` file I added. This is a pretty rudimentary test, if you want to try some deep tests, let me introduce you to the amazing [42FileChecker][17] by [@jgigault][18].
 
 Assuming you read the project instructions and coded your own get_next_line
 		
