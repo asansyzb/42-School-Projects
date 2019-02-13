@@ -45,7 +45,7 @@ Run `make` in the root folder, an executable called `fdf` should compile directl
 The last command created a `fdf` executable in your directory. Now test it with:
 
 
-I added **test_maps** folder, to test the program on different amount of different tetriminos.
+I added **test_maps** folder to test the program on different maps.
 
 	./fdf test_maps/pyramide.fdf
 
