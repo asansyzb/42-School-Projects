@@ -8,8 +8,8 @@ A simple 3D height-map renderer. You can rotate models, zoom in and out, increas
 * [What is fdf?](#what-is-fdf)
 * [Why would I use/try it?](#why-would-i-usetry-it)
 * [Features](#features)
-* [Controls](#controls)
 * [How do I use it?](#how-do-i-use-it)
+* [Controls](#controls)
 
 ### What is fdf?
 
@@ -48,6 +48,11 @@ Run `make` in the root folder, an executable called `fdf` should compile directl
 
 The last command created a `fdf` executable in your directory. Now test it with:
 
+
+I added **test_maps** folder, to test the program on different amount of different tetriminos.
+
+	./fdf test_maps/pyramide.fdf
+
 ### Controls
 
 	wasd - move the object.
@@ -57,12 +62,6 @@ The last command created a `fdf` executable in your directory. Now test it with:
  	+ or -  -  zoom in/out.
   
   	< or > - increase/decrease landshcaft.
-  
-
-
-I added **test_maps** folder, to test the program on different amount of different tetriminos.
-
-	./fdf test_maps/pyramide.fdf
 
 Have fun :)
 
