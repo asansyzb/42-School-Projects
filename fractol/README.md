@@ -1,6 +1,6 @@
 # Fract'ol
 
-![screenshot](https://github.com/Aliba777/42-School-Projects/blob/master/fractol/screenshot_fractol.png)
+![screenshot](https://github.com/Aliba777/42-School-Projects/blob/master/screenshots/screenshot_fractol.png)
 
 A multithreaded fractal renderer.
 
