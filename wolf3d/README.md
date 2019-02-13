@@ -2,7 +2,7 @@
 
 ![wolf3d screenshot](https://github.com/Aliba777/42-School-Projects/blob/master/wolf3d/screenshot_wolf3d.png)
 
-A Wolfeinstein-like renderer made in C using minilibX, with textures, basic
+A [Wolfeinstein-like][1] renderer made in C using minilibX, with textures, basic
 lighting and basic map files.
 
 ## Compiling
@@ -23,3 +23,4 @@ right out of the box. Spawns at the center of the map.
 1 0 0 0 1
 1 1 1 1 1
 ```
+[1]: https://github.com/Aliba777/42-School-Projects/blob/master/wolf3d/wolf3d.en.pdf
