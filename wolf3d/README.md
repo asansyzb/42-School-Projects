@@ -1,6 +1,6 @@
 # wolf3d
 
-![wolf3d screenshot](https://github.com/Aliba777/42-School-Projects/blob/master/wolf3d/screenshot_wolf3d.png)
+![wolf3d screenshot](https://github.com/Aliba777/42-School-Projects/blob/master/screenshots/screenshot_wolf3d.png)
 
 A [Wolfeinstein-like][1] renderer made in C using minilibX, with textures, basic
 lighting and basic map files.
