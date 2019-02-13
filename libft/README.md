@@ -88,10 +88,9 @@ That's it. Now run it using `./example.out`
 
 To test the code we're going to be using @alelievr's [Libft Unit Test][4]. There are [some][5] [good][6] [others][7] but I'll only be covering this one.
 
+All of the instructions I used was copied/paraphrased from [other 42 student][19].
 
 Have fun :)
-
-All of the instructions I used was copied/paraphrased from [other 42 student][19]
 
 [1]: https://github.com/Aliba777/42-School-Projects/blob/master/libft/libft.en.pdf "Libft PDF"
 [2]: http://42.us.org "42 USA"
