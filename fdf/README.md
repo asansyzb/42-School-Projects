@@ -29,10 +29,15 @@ not...
 ### Features
   
   Simple file format definition (array of space-separated integers)
+  
   3D rotations with the mouse
+  
   Camera controls (zoom, translate)
+  
   Pretty color gradients!
+  
   Double-buffered
+  
   Line clipping
 
 ### How do I use it?
@@ -46,9 +51,13 @@ The last command created a `fdf` executable in your directory. Now test it with:
 ### Controls
 
   wasd - move the object.
+  
   arrow keys - move the angle.
+  
   + or -  -  zoom in/out.
+  
   < or > - increase/decrease landshcaft.
+  
 
 
 I added **test_maps** folder, to test the program on different amount of different tetriminos.
