@@ -15,8 +15,7 @@ map using the arrow keys. Exit by closing the window or pressing ESC.
 ## Map file format
 It's a very simple format. Open a file in your favorite text editor, make sure
 you have a grid of integers (each one being it's block ID), and it should work
-right out of the box. Spawn position is the first empty space available from the
-top left.
+right out of the box. Spawns at the center of the map.
 
 ```
 1 1 1 1 1
