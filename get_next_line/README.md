@@ -74,9 +74,7 @@ Assuming you read the project instructions and coded your own get_next_line
 		cd 42FileChecker
 		sh 42FileChecker.sh
 
-At the time of writing, @jgigault is looking for a maintainer for 42FC, so he displays a message on startup, dismiss it with `1` or contact him if you think you can help.
-
-Then press `5` to select tests for get_next_line, press `1` to install [moulitest][5] as an external repo, then `1` to configure the tests, now you handle the path to your get_next_line and then choose which test to run on your project.
+Press `5` to select tests for get_next_line, press `1` to install [moulitest][5] as an external repo, then `1` to configure the tests, now you handle the path to your get_next_line and then choose which test to run on your project.
 
 All of the instructions I used was copied/paraphrased from [other 42 student][19].
 
